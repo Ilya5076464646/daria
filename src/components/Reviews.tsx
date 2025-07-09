@@ -4,12 +4,12 @@ import { Star, ExternalLink } from 'lucide-react';
 const Reviews = () => {
   const testimonials = [
     {
-      image: 'https://picsum.photos/600/400?random=2',
+      image: '/photo_2025-07-09_20-37-45.jpg',
       title: 'Результат работы',
       description: 'Потрясающие изменения в здоровье и самочувствии'
     },
     {
-      image: 'https://picsum.photos/600/400?random=3',
+      image: '/photo_2025-07-09_20-37-34.jpg',
       title: 'Трансформация',
       description: 'Кардинальные улучшения в состоянии здоровья'
     }
