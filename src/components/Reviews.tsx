@@ -4,12 +4,12 @@ import { Star, ExternalLink } from 'lucide-react';
 const Reviews = () => {
   const testimonials = [
     {
-      image: 'https://i.postimg.cc/NM4DZ4j9/IMG-5712.jpg',
+      image: 'https://images.pexels.com/photos/6975474/pexels-photo-6975474.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       title: 'Результат работы',
       description: 'Потрясающие изменения в здоровье и самочувствии'
     },
     {
-      image: 'https://i.postimg.cc/qqDLvvnp/IMG-5713.jpg',
+      image: 'https://images.pexels.com/photos/7176026/pexels-photo-7176026.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       title: 'Трансформация',
       description: 'Кардинальные улучшения в состоянии здоровья'
     }

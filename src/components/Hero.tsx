@@ -67,7 +67,7 @@ const Hero = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-emerald-400 to-teal-400 rounded-3xl transform rotate-6 opacity-20"></div>
               <img
-                src="https://i.postimg.cc/hPtYM8wX/IMG-5710.jpg"
+                src="https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=500&h=500&fit=crop"
                 alt="Дарья - нутрициолог и психолог"
                 className="relative w-80 h-80 sm:w-96 sm:h-96 lg:w-[500px] lg:h-[500px] object-cover rounded-3xl shadow-2xl"
               />
